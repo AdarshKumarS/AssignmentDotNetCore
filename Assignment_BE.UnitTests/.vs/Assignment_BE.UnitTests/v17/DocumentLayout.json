@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Assignment_BE\\Assignment_BE.UnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80125473-B6A3-4DFE-969B-88984D6BC0D8}|Assignment_BE.UnitTests.csproj|c:\\users\\dell\\source\\repos\\assignment_be\\assignment_be.unittests\\orderrepounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80125473-B6A3-4DFE-969B-88984D6BC0D8}|Assignment_BE.UnitTests.csproj|solutionrelative:orderrepounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80125473-B6A3-4DFE-969B-88984D6BC0D8}|Assignment_BE.UnitTests.csproj|c:\\users\\dell\\source\\repos\\assignment_be\\assignment_be.unittests\\assignment_be.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80125473-B6A3-4DFE-969B-88984D6BC0D8}|Assignment_BE.UnitTests.csproj|solutionrelative:assignment_be.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment_BE.UnitTests",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Assignment_BE\\Assignment_BE.UnitTests\\Assignment_BE.UnitTests.csproj",
+              "RelativeDocumentMoniker": "Assignment_BE.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Assignment_BE\\Assignment_BE.UnitTests\\Assignment_BE.UnitTests.csproj",
+              "RelativeToolTip": "Assignment_BE.UnitTests.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T09:11:27.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepoUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Assignment_BE\\Assignment_BE.UnitTests\\OrderRepoUnitTest.cs",
+              "RelativeDocumentMoniker": "OrderRepoUnitTest.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Assignment_BE\\Assignment_BE.UnitTests\\OrderRepoUnitTest.cs",
+              "RelativeToolTip": "OrderRepoUnitTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:50:04.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
